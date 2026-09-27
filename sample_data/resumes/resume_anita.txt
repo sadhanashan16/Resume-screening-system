@@ -1,0 +1,6 @@
+Anita Rao
+Machine Learning Engineer, 2+ years of experience.
+Skills: Python, PyTorch, NLP, Natural Language Processing, Scikit-learn, Docker, Git
+Education: B.Sc Computer Science
+Experience: Developed NLP pipelines and deep learning models using PyTorch.
+Comfortable with data analysis using pandas and numpy. Worked in Scrum teams.

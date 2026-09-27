@@ -1,0 +1,11 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist with strong experience in Python,
+machine learning, and data analysis. The ideal candidate should have
+hands-on experience with pandas, numpy, scikit-learn, and either
+TensorFlow or PyTorch. Familiarity with SQL and cloud platforms
+(AWS or Azure) is a plus. Candidates should have at least 2 years of
+experience working on data science or machine learning projects, and
+should hold a Bachelor's or Master's degree in Computer Science,
+Engineering, or a related field. Strong communication skills and
+experience working in Agile teams are desirable.

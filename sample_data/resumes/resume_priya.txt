@@ -1,0 +1,7 @@
+Priya Sharma
+Data Scientist with 4 years of experience.
+Skills: Python, Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, AWS
+Education: M.Tech in Computer Science
+Experience: Worked on multiple machine learning and data analysis projects using
+Python and scikit-learn. Built predictive models with TensorFlow. Familiar with
+Agile development and cloud deployment on AWS.

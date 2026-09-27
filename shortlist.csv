@@ -1,0 +1,6 @@
+filename,similarity_score,skills_found,education_found,experience_years,naive_bayes_prediction,svm_prediction
+Fatima_Sheikh_Resume.pdf,0.4657,"agile, azure, c, data science, deep learning, machine learning, nlp, numpy, pandas, python, pytorch, r, scikit-learn, sql, tensorflow","computer science, phd",6.0,Shortlist,Shortlist
+Arjun_Nair_Resume.pdf,0.3536,"agile, c, data analysis, excel, machine learning, numpy, pandas, python, r, scikit-learn, sql, tableau","b.tech, computer science",3.0,Shortlist,Shortlist
+Meera_Pillai_Resume.docx,0.3031,"agile, aws, c, data science, docker, keras, machine learning, numpy, pandas, python, r, scikit-learn, sql, tensorflow",m.tech,5.0,Shortlist,Shortlist
+Neha_Gupta_Resume.docx,0.183,"c, data analysis, flask, git, machine learning, pandas, python, r, sql","b.sc, be, computer science",1.0,Shortlist,Shortlist
+Vikram_Singh_Resume.pdf,0.1298,"aws, c, docker, git, kubernetes, machine learning, python, r","b.e, be, information technology",4.0,Reject,Reject

@@ -1,0 +1,6 @@
+Divya Iyer
+Data Analyst with 2 years of experience.
+Skills: Python, SQL, Pandas, Tableau, Excel, Machine Learning basics
+Education: B.Tech Computer Science
+Experience: Performed data analysis and built dashboards using Tableau and
+Excel. Recently started learning scikit-learn and machine learning concepts.

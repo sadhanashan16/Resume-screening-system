@@ -1,0 +1,6 @@
+Rahul Verma
+Software Engineer with 3 years of experience.
+Skills: Java, C++, HTML, CSS, JavaScript, Git
+Education: B.Tech in Information Technology
+Experience: Full-stack web developer building applications with Java and
+JavaScript. Some exposure to SQL databases. No machine learning background.
